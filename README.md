@@ -8,7 +8,7 @@ A random walk is a path that has no clear direction. Every random walk is differ
 - A color map is used to show the order of the points in the walk. The walk starts at light blue and the points get darker as the walk progresses.
 
 ## How to Run
-Simply clone this repo and type python rw_visual.py
+Simply clone this repo and type python run.py
 
 ## Sample Random Walk
 ![Alt text](rw_visual.png)
