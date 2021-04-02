@@ -9,3 +9,6 @@ A random walk is a path that has no clear direction. Every random walk is differ
 
 ## How to Run
 Simply clone this repo and type python rw_visual.py
+
+## Sample Random Walk
+![Alt text](rw_visual.png)
